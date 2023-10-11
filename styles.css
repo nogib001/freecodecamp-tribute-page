@@ -1,0 +1,68 @@
+** start of undefined **
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  text-align: center;
+  color: #333;
+}
+
+#main {
+  background: #EEEEEE;
+  padding: 15px;
+  margin: 30px 8px;
+}
+
+h1 {
+  font-size: 4rem;
+  line-height: 1.0;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+#tribute {
+  margin: 50px 0 25px 0;
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin-top: 25px;
+  font-size: 1.3rem;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+}
+
+ul {
+  max-width: 550px;
+  text-align: left;
+}
+
+li {
+  margin: 16px 0;
+}
+
+.blockquote {
+  margin: 50px 0;
+  font-style: italic;
+}
